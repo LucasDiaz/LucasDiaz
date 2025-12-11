@@ -8,9 +8,9 @@
 
 
      
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de mí**
+## <picture><img src = "https://drive.google.com/uc?export=view&id=1EUnya1gARcL4B7x0rSuE3AlkRcAmmKjw" width = 50px></picture> **Acerca de mí**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://drive.google.com/uc?export=view&id=1myYfQvLrZPoi94gLUM3kOLDiKynejHA7" width = 250px></picture>
 
 <br>
 
