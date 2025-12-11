@@ -14,12 +14,10 @@
 
 <br>
 
-- [cite_start]Estudiante avanzado de **Ingeniería en Informática** (cursando 3er año)[cite: 3, 30, 31].
-- [cite_start]Me estoy formando activamente como **Programador Jr. Full Stack**, con habilidades en desarrollo *backend* y *frontend*[cite: 4].
-- [cite_start]Poseo experiencia práctica en **soporte técnico y administración IT**[cite: 4].
-- [cite_start]Mis fortalezas incluyen la **capacidad de aprendizaje constante, la resolución de problemas** y el **trabajo en equipo**[cite: 5, 36, 37, 38].
-- [cite_start]Busco oportunidades como Programador Jr. para crecer y consolidar mi perfil técnico[cite: 6].
-- [cite_start]**Ubicación:** Quilmes, Buenos Aires.
+- Estudiante avanzado de **Ingeniería en Informática**.
+- Me estoy formando activamente como **Programador Jr. Full Stack**, con habilidades en desarrollo *backend* y *frontend*.
+- Poseo experiencia práctica en **soporte técnico y administración IT**
+- Mis fortalezas incluyen la **capacidad de aprendizaje constante, la resolución de problemas** y el **trabajo en equipo**.
 
 <br><br>
 
